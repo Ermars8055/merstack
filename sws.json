@@ -1,0 +1,73 @@
+[
+    {
+      "_id": "66005a1f8a3c2a001f5e4a01",
+      "name": "Laptop",
+      "quantity": 10,
+      "price": 75000,
+      "__v": 0
+    },
+    {
+      "_id": "66005a1f8a3c2a001f5e4a02",
+      "name": "Smartphone",
+      "quantity": 25,
+      "price": 30000,
+      "__v": 0
+    },
+    {
+      "_id": "66005a1f8a3c2a001f5e4a03",
+      "name": "Headphones",
+      "quantity": 50,
+      "price": 2000,
+      "__v": 0
+    },
+    {
+      "_id": "66005a1f8a3c2a001f5e4a04",
+      "name": "Smartwatch",
+      "quantity": 15,
+      "price": 10000,
+      "__v": 0
+    },
+    {
+      "_id": "66005a1f8a3c2a001f5e4a05",
+      "name": "Tablet",
+      "quantity": 8,
+      "price": 45000,
+      "__v": 0
+    },
+    {
+      "_id": "66005a1f8a3c2a001f5e4a06",
+      "name": "Monitor",
+      "quantity": 12,
+      "price": 18000,
+      "__v": 0
+    },
+    {
+      "_id": "66005a1f8a3c2a001f5e4a07",
+      "name": "Keyboard",
+      "quantity": 30,
+      "price": 1500,
+      "__v": 0
+    },
+    {
+      "_id": "66005a1f8a3c2a001f5e4a08",
+      "name": "Mouse",
+      "quantity": 40,
+      "price": 800,
+      "__v": 0
+    },
+    {
+      "_id": "66005a1f8a3c2a001f5e4a09",
+      "name": "External Hard Drive",
+      "quantity": 20,
+      "price": 5000,
+      "__v": 0
+    },
+    {
+      "_id": "66005a1f8a3c2a001f5e4a10",
+      "name": "Gaming Console",
+      "quantity": 5,
+      "price": 40000,
+      "__v": 0
+    }
+  ]
+  

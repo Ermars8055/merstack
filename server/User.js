@@ -1,11 +1,15 @@
-const mongoose = require('mongoose')
-//define schema
+const mongoose = require('mongoose');
+
+// define schema
 const UserSchema = new mongoose.Schema({
-    name:String,
-    email:String,
-    phone:Number,
-    location:String
-})
-//create model object
-const UserModel = new mongoose.model("Users",UserSchema)
-module.exports=UserModel
+    name: String,
+    email: { type: String, unique: true },
+    phone: Number,
+    location: String,
+    password: String  // ✅ new field
+});
+
+// create model object
+const UserModel = mongoose.model("Users", UserSchema);
+
+module.exports = UserModel;
